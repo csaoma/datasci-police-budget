@@ -19,7 +19,7 @@
   "dependencies": {
     "@nuxt/typescript-runtime": "^0.4.0",
     "@nuxtjs/pwa": "^3.2.2",
-    "@vue/cli-service": "^4.5.7",
+    "@vue/cli-service": "^4.5.8",
     "chart.js": ">=2.9.4",
     "cypress": "^5.4.0",
     "dayjs": "^1.9.3",
@@ -32,10 +32,10 @@
     "vue-spinner": "^1.0.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.1",
+    "@babel/core": "^7.12.3",
     "@fullhuman/postcss-purgecss": "^3.0.0",
     "@nuxt/typescript-build": "^1.0.3",
-    "@nuxtjs/eslint-config-typescript": "^3.0.0",
+    "@nuxtjs/eslint-config-typescript": "^4.0.0",
     "@nuxtjs/google-analytics": "^2.2.3",
     "@nuxtjs/vuetify": "^1.0.0",
     "@types/chart.js": "^2.9.26",
@@ -53,7 +53,7 @@
     "husky": "^4.3.0",
     "jest": "^24.1.0",
     "lint-staged": "^10.4.2",
-    "nodemon": "^2.0.5",
+    "nodemon": "^2.0.6",
     "nuxt-purgecss": "^1.0.0",
     "nuxt-svg-loader": "^1.2.0",
     "prettier": "^2.1.2",
