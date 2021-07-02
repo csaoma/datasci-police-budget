@@ -38,7 +38,7 @@
     "@nuxtjs/eslint-config-typescript": "^5.0.0",
     "@nuxtjs/google-analytics": "^2.2.3",
     "@nuxtjs/vuetify": "^1.11.3",
-    "@types/chart.js": "^2.9.30",
+    "@types/chart.js": "^2.9.33",
     "@vue/cli-plugin-eslint": "~4.5.11",
     "@vue/eslint-config-airbnb": "^5.3.0",
     "@vue/test-utils": "^1.1.3",
